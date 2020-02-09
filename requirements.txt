@@ -1,0 +1,3 @@
+PyNaCl
+discrod.py
+youtube_dl
